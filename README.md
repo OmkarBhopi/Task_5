@@ -1,6 +1,7 @@
 This project is part of the SQL Developer Internship
 
 Task 5: SQL Joins. 
+
 I used pgAdmin 4 to create two related tables — employee and department — and performed various types of JOIN operations to combine their data.
 
 In this task, I practiced the following SQL joins:
